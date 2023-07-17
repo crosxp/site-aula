@@ -1,0 +1,133 @@
+.linha1 {
+    border: 6px solid #33A95B;
+}
+.estilomenu {
+    font-size: medium;
+    text-decoration: none;
+    color: #33A95B;
+}
+.cabecalho {
+    background-color: #33A95B;
+    padding: 15px;
+}
+
+.menu {
+    text-align: center;
+    font-family: verdana;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.divBemVindoHome {
+    text-align: center;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.h1-inicio {
+    text-align: center;
+    text-transform: uppercase;
+    color: #747271;
+}
+
+.imagemHome {
+    width: 30%;
+}
+
+.rodapé {
+    text-align: center;
+    font-family: verdana;
+    color: gray;
+    margin-top: 10%;
+}
+.hr-menu{
+    border: 6px solid #33A95B;
+}
+
+.imagensSociasRodape {
+    width: 3%;
+    margin-right: 6%;
+}
+
+.linhaRodape {
+    border: 1px solid #33A95B;
+}
+
+.historia {
+    padding: 10px;
+}
+
+.divisor-historia {
+    border: 1px solid red;
+    width: 1024px;
+}
+
+.historia-paragrafo {
+    padding: 20px;
+    width: 1024px;
+    text-align: justify;
+    font-family: arial;
+}
+
+.corpoPagina {
+    margin-top: 40px;
+}
+
+.central {
+    width: 1024px;
+    font-family: 'SegoeUI-Light' !important;
+    text-align: left;
+}
+
+table.imagens {
+    width: 100%;
+    text-align: center;
+    border-spacing: 20px;
+    color: #424242;
+    font-weight: bold;
+}
+
+.tamanhoFotosPaginaImagen {
+    width: 350px;
+    height: 300px;
+}
+
+#corpo-pagina-noticias{
+    margin-top: 40px;
+    padding: 10px;
+}
+#central{
+    width: 1024px;
+    color: #333;
+    font-family: 'SegoeUI-Light', sans-serif !important;
+    text-align: left;
+}
+#divRodapeNoticia{
+    background-color: #fff;
+    color: gray;
+    padding: 10px;
+    height: 100px;
+    margin-top: 28%;
+}
+#div-direita{
+    float: right;
+    margin-right: 50px;
+}
+#div-esquerda {
+    float: left;
+    margin-left: 50px;
+}
+.texto-cor{
+    color: #333333;
+    text-decoration: none;
+    font-weight: normal;
+}
+.hr-noticia-direita{
+    border: 1px solid red;
+
+}
+.hr-noticia-esquerda{
+    border: 1px solid #33A95B;
+}
+.hr-rodape{
+    border: 1px solid #33A95B;
+}

@@ -1,0 +1,15 @@
+.historia {
+    padding: 10px;
+}
+
+.divisor-historia {
+    border: 1px solid red;
+    width: 1024px;
+}
+
+.historia-paragrafo {
+    padding: 20px;
+    width: 1024px;
+    text-align: justify;
+    font-family: arial;
+}

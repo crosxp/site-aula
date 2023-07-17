@@ -1,0 +1,53 @@
+.linha1 {
+    border: 6px solid #33A95B;
+}
+.estilomenu {
+    font-size: medium;
+    text-decoration: none;
+    color: #33A95B;
+}
+.cabecalho {
+    background-color: #33A95B;
+    padding: 15px;
+}
+
+.menu {
+    text-align: center;
+    font-family: verdana;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.divBemVindoHome {
+    text-align: center;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.h1-inicio {
+    text-align: center;
+    text-transform: uppercase;
+    color: #747271;
+}
+
+.imagemHome {
+    width: 30%;
+}
+
+.rodapé {
+    text-align: center;
+    font-family: verdana;
+    color: gray;
+    margin-top: 10%;
+}
+.hr-menu{
+    border: 6px solid #33A95B;
+}
+
+.imagensSociasRodape {
+    width: 3%;
+    margin-right: 6%;
+}
+
+.linhaRodape {
+    border: 1px solid #33A95B;
+}
